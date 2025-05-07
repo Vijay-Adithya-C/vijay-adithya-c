@@ -1,5 +1,6 @@
 ---
 title: "Test Post"
+date: 2025-05-07
 excerpt_separator: "<!--more-->"
 categories:
   - Academic
