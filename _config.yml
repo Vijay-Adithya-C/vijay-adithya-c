@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Vijay Adithya C
+title: "Vijay Adithya C"  # ← quotes added for safety with special characters
 email: vijay.adithya.c.acad@gmail.com
 description: >-
   Hi! I am Vijay Adithya, pursuing my undergraduate studies at the Madras School of Economics. 
   I will post about my work and experiences here.
-twitter_username: username
-github_username: Vijay-Adithya-C
-minimal_mistakes_skin: midnight
+twitter_username: _vijay_adithya  # ← update this if incorrect (previously: username)
+github_username: "Vijay-Adithya-C"
+minimal_mistakes_skin: "dark"  # ← changed from "midnight" to "dark" (midnight may not apply dark background)
 search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Vijay Adithya C"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello, check out my ideas!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,7 +72,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/_vijay.adithya"
 
 footer:
   links:
@@ -84,7 +84,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/_vijay.adithya"
 
 defaults:
   # _posts
