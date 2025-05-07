@@ -3,12 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-## About Me
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Hi! I’m Vijay Adithya C, an undergrad at the [Madras School of Economics](https://www.mse.ac.in). I like working at the edges of economics, mathematics, and philosophy — especially where complex ideas meet the real world.
-
-I was formerly Vice President of [Giffen](https://linktr.ee/giffenecofinmse), the Econ Fin Society at MSE, where we tried to make economic thinking both serious and fun. My interests tend to drift toward niche topics and also toward ideas that I think everyone *should* understand, even if they seem complicated at first.
-
-I enjoy listening to Indian classical music, reading slowly, and thinking about how to make difficult things clearer — both for myself and others.
-
-Thanks for visiting!
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
