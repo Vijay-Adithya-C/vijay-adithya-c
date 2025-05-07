@@ -1,8 +1,9 @@
 ---
-title: "Post: Standard"
+title: "Test Post"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Academic
+  - Non-Academic
 tags:
   - Finance
   - Mathematics
