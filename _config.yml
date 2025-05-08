@@ -64,9 +64,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://vijay-adithya-c.github.io/vijay-adithya-c/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:vijay.adithya.c.acad@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Vijay-Adithya-C"
@@ -76,9 +76,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:vijay.adithya.c.acad@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Vijay-Adithya-C"
@@ -105,6 +105,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      css: "/assets/css/custom.css"  # ← custom font only for pages
 
 category_archive:
   type: liquid
