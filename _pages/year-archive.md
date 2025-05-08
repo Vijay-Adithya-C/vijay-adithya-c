@@ -1,7 +1,6 @@
 ---
-title: "Posts"
+title: "Posts by Year"
 permalink: /posts/
-layout: archive
-archive_type: monthly
+layout: posts
 author_profile: true
 ---
