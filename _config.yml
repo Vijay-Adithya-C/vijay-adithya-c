@@ -63,7 +63,7 @@ author:
   bio    : "Hello, check out my ideas!"
   links:
     - label: "Website"
-      icon: "fa-regular fa-house-user"
+      icon: "fa-solid fa-house"
       url: "https://vijay-adithya-c.github.io/vijay-adithya-c/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
