@@ -3,9 +3,11 @@ layout: post
 title: "My LaTeX Post"
 date: 2025-05-08
 categories:
+- Academic
+tags:
 - Finance
-- Statistics
 - Mathematics
+- Statistics
 ---
 
 Here is my LaTeX-generated document:
