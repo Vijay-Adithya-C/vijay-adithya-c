@@ -9,5 +9,5 @@ tags:
   - Mathematics
   - Statistics
 ---
-<p>Suggestions implemented<p><p>1<br>2<br>3<p>
+<p>Suggestions implemented</p><p>1<br>2<br>3</p>
 <iframe src="/vijay-adithya-c/assets/pdf/upload_trial.pdf" width="100%" height="800px" style="border: none;"></iframe>
