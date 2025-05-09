@@ -9,6 +9,6 @@ tags:
 - Mathematics
 - Statistics
 ---
+Here's my LaTeX document:
 
-Here's my LaTeX document:  
-[Click here to view the PDF]( {{ '/assets/pdf/my-latex-document.pdf' | relative_url }} ){:target="_blank"}
+[Click here to view the PDF]( {{ '/assets/pdf/upload_trial.pdf' | relative_url }} ){:target="_blank"}
