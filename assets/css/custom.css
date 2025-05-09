@@ -14,6 +14,7 @@
   color: white;
   text-align: center;
   padding: 100px 0; /* Adjusts the vertical padding for the content */
+  width: 100%
   height: 400px; /* Adjusts the height of the horizontal band */
   display: flex; /* Flexbox for centering the text */
   justify-content: center; /* Centers items along the horizontal axis */
