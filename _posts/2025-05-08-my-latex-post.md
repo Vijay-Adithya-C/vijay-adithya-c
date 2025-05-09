@@ -3,10 +3,10 @@ layout: none
 title: "My LaTeX PDF on XYZ Topic"
 date: 2025-05-08
 categories:
-- Academic
+  - Academic
 tags:
-- Finance
-- Mathematics
-- Statistics
+  - Finance
+  - Mathematics
+  - Statistics
 redirect_to: /assets/pdf/upload_trial.pdf
 ---
