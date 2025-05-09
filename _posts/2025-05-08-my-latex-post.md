@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "My LaTeX PDF on XYZ Topic"
+title: "My test LaTeX PDF on XYZ Topic"
 date: 2025-05-08
 categories:
   - Academic
