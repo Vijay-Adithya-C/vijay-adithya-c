@@ -9,10 +9,5 @@ tags:
   - Mathematics
   - Statistics
 ---
-
-<iframe src="/vijay-adithya-c/assets/pdf/upload_trial.pdf" width="100%" height="800px" style="border: none;">
-  Suppose your browser does not support PDFs ==>
-  <a href="/vijay-adithya-c/assets/pdf/upload_trial.pdf">"Download PDF"</a>.
-  - correction by so and so on date and time (1)
-  - correction by so and so on date and time (2)
-</iframe>
+<p>Suggestions implemented<p><p>1<br>2<br>3<p>
+<iframe src="/vijay-adithya-c/assets/pdf/upload_trial.pdf" width="100%" height="800px" style="border: none;"></iframe>
