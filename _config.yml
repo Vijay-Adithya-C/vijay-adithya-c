@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Vijay Adithya C"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello, check out my ideas!"
+  bio    : "Feel free to explore my <a href='https://vijay-adithya-c.github.io/vijay-adithya-c/tags/'>ideas</a>."
   links:
     - label: "Website"
       icon: "fa-solid fa-house"
