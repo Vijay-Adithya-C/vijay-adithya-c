@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "My LaTeX Post"
+layout: none
+title: "My LaTeX PDF on XYZ Topic"
 date: 2025-05-08
 categories:
 - Academic
@@ -8,7 +8,5 @@ tags:
 - Finance
 - Mathematics
 - Statistics
+redirect_to: /assets/pdf/my-latex-document.pdf
 ---
-Here's my LaTeX document:
-
-[Click here to view the PDF]( {{ '/assets/pdf/upload_trial.pdf' | relative_url }} ){:target="_blank"}
