@@ -8,5 +8,5 @@ tags:
 - Finance
 - Mathematics
 - Statistics
-redirect_to: /assets/pdf/my-latex-document.pdf
+redirect_to: /assets/pdf/upload_trial.pdf
 ---
