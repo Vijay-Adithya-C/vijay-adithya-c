@@ -14,12 +14,13 @@
   color: white;
   text-align: center;
   padding: 100px 0; /* Adjusts the vertical padding for the content */
-  width: 100%
+  width: 100%; /* Ensures the band spans the entire width of the page */
   height: 400px; /* Adjusts the height of the horizontal band */
   display: flex; /* Flexbox for centering the text */
   justify-content: center; /* Centers items along the horizontal axis */
   align-items: center; /* Centers items along the vertical axis */
   flex-direction: column; /* Stacks text vertically */
+  box-sizing: border-box; /* Ensures padding doesn't overflow */
 }
 
 /* Additional style to make text stand out */
