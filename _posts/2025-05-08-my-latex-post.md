@@ -10,6 +10,5 @@ tags:
 - Statistics
 ---
 
-Here is my LaTeX-generated document:
-
-<iframe src="{{ '/assets/pdf/my-latex-document.pdf' | relative_url }}" width="100%" height="600px"></iframe>
+Here's my LaTeX document:  
+[Click here to view the PDF]( {{ '/assets/pdf/my-latex-document.pdf' | relative_url }} ){:target="_blank"}
