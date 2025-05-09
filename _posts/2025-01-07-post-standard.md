@@ -8,8 +8,7 @@ categories:
 tags:
   - Finance
   - Mathematics
-  - Probability
-  - Statistics
+  - Probability & Statistics
   - Coding
 ---
 This article is a part of the template.

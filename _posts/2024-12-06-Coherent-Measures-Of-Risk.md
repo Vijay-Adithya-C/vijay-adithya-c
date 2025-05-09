@@ -7,8 +7,10 @@ categories:
 tags:
   - Finance
   - Mathematics
-  - Statistics
+  - Probability & Statistics
 ---
+<h2>Context:</h2>
+<p>On the 6th of December 2024, I had presented the following PPT with the verbal explanation of what is detailed below. Scroll further to take a look at the PPT.</p>
 <h2>Abstract</h2>
 <p>
   Value at Risk (VaR) is a commonly used financial risk measure that quantifies the potential loss in capital. 
