@@ -62,4 +62,5 @@ tags:
 </ul>
 
 <iframe src="/vijay-adithya-c/assets/pdf/Coherent_Risk_Measures.pdf" width="100%" height="800px" style="border: none;"></iframe>
-<p>This was solely done under the guidance of my professor.</p>
+<p>This was solely done under the guidance of my professor, 
+  <a href="https://example.com" target="_blank">Srikanth B Pai</a>.</p>
