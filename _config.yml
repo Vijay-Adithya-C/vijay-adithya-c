@@ -20,7 +20,7 @@ description: >-
   I will post about my work and experiences here.
 twitter_username: _vijay_adithya  # ← update this if incorrect (previously: username)
 github_username: "Vijay-Adithya-C"
-minimal_mistakes_skin: "neon"  # ← changed from "midnight" to "dark" (midnight may not apply dark background)
+minimal_mistakes_skin: "sunrise"  # ← changed from "midnight" to "dark" (midnight may not apply dark background)
 search: true
 
 # Build settings
