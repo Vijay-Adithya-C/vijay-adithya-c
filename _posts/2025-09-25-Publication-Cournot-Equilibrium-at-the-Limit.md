@@ -10,7 +10,7 @@ tags:
   - Game Theory
 ---
 <h2>Context:</h2>
-<p>This is a paper (my first), Professor Dr. Poorna and I wrote (Under the complete guidance of her) about the Existence of Equilibrium and the nature of what is "seemingly perfectly competitive equilibrium" in the case of a Cournot game with infintely many firms.</p>
+<p>This is a paper, Assistant Professor Dr. Poorna and I wrote (Under the complete guidance of her) about the Existence of Equilibrium and the nature of what is "seemingly perfectly competitive equilibrium" in the case of a Cournot game with infintely many firms.</p>
 <h2>Abstract</h2>
 <p>
   This paper studies a Cournot market with infinitely many firms facing constant but heterogeneous marginal costs, without assuming perfect competition. We determine a necessary and sufficient condition for the existence of equilibrium - the marginal costs converge to a limit <strong>r</strong> with summable deviations. We deduce from this condition that perfect competition is not automatic in such markets, but competitive behavior emerges asymptotically under certain conditions on the costs. We also consider a family of finite markets growing to the infinite limit market. We show that the equilibria of finite markets converge to that of the limit market if and only if the average marginal costs of the finite markets converge to <strong>r</strong>
