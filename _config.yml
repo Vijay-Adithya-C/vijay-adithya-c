@@ -22,6 +22,7 @@ twitter_username: _vijay_adithya  # ← update this if incorrect (previously: us
 github_username: "Vijay-Adithya-C"
 minimal_mistakes_skin: "default"  # ← changed from "midnight" to "dark" (midnight may not apply dark background)
 search: true
+baseurl: "" 
 
 # Build settings
 markdown: kramdown
