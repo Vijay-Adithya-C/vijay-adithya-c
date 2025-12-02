@@ -1,7 +1,7 @@
 ---
-permalink: /TA/
 title: "Teaching Assistance"
 layout: single
+permalink: /TA/
 ---
 
 I have served as a Teaching Assistant for the following courses:

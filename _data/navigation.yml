@@ -10,7 +10,7 @@ main:
   - title: "Teaching Assistance"
     url: /TA/
     children:
-    - title: "Real Analysis"
-      url: /TA/real-analysis/
-    - title: "Calculus I"
-      url: /TA/calculus-1/
+      - title: "Real Analysis"
+        url: /TA/real-analysis/
+      - title: "Calculus I"
+        url: /TA/calculus-1/
